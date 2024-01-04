@@ -29,16 +29,21 @@
 
 <br>
 
-<a href="https://github.com/jordialfonsop/VRCollaborator">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jordialfonsop&repo=VRCollaborator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/N4s4r/unfocused">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=N4s4r&repo=unfocused&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/martaalet">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martaalet&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/jordialfonsop/VRCollaborator">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jordialfonsop&repo=VRCollaborator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-![](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=4AB197)
+## Skills
+
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=HTML&logoColor=white&color=4AB197)
+
